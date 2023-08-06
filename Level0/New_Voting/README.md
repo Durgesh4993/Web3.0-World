@@ -5,6 +5,7 @@
 
 #  About Vote_web3 🕸️-
 
+
 ### This project aims at implementing a voting system based on Blockchain technology. It is a secure, transparent and decentralized way of voting. It converts ballots into transactions and securely mines blocks out of them. A Blockchain-based voting system that aims to address many of the problems faced in today’s elections and promises new opportunities, from securing transparency to making the voting process more accessible, affordable, and safe. The advantage of a blockchain based voting system include the ability to vote from any place and prevent any tampering of votes.
 <br><br>
 
